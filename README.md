@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Md. Nazmul Islam Talukder
 
-<!--
-**nazmul-islam00/nazmul-islam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science and Engineering undergraduate at **Bangladesh University of Engineering and Technology (BUET)** interested in **machine learning and computational biology**.
 
-Here are some ideas to get you started:
+My current work spans computational biology, federated learning, and multimodal AI systems, with a particular interest in **proteomics and phylogenomics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Machine Learning
+- Computational Biology
+- Proteomics
+- Phylogenomics
+
+## Currently
+
+- Exploring research problems at the intersection of machine learning and computational biology
+- Working on problems in proteomics and phylogenomics
+- Developing multimodal AI systems for automated answer-script evaluation
+- Building on previous research in federated and heterogeneous learning
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/md-nazmul-islam-talukder-9970a6282) · [Email](mailto:nazmulislam17628@gmail.com)
